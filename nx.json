@@ -30,6 +30,13 @@
     "api": {
       "tags": []
     },
+    "dashboard": {
+      "tags": []
+    },
+    "dashboard-e2e": {
+      "tags": [],
+      "implicitDependencies": ["dashboard"]
+    },
     "frontend": {
       "tags": []
     },
